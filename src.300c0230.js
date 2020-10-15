@@ -13,4 +13,4 @@ var e,t=arguments[3];!function(t,r){"object"==typeof exports&&"object"==typeof m
 },{"./markup":"tW6H"}],"Focm":[function(require,module,exports) {
 "use strict";var e=require("./js/markup"),r=require("./js/toggle");e.menuList.insertAdjacentHTML("afterbegin",e.menuMarkup),document.body.classList.add(r.Theme.LIGHT),e.checkbox.addEventListener("change",r.onCheckboxClick),(0,r.favoriteTheme)();
 },{"./js/markup":"tW6H","./js/toggle":"uSnu"}]},{},["Focm"], null)
-//# sourceMappingURL=/goit-js-hw-10-food-service-parcel/src.300c0230.js.map
+//# sourceMappingURL=/goit-js-hw-10-food-service/src.300c0230.js.map
